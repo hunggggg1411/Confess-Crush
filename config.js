@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "hi joani",
+    introTitle: 'Joani',
+    introDesc: `You can make the sky greener and make the grass look more blue, but you can’t stop me from loving you!`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    title: 'Did you fall in love at first sight? 🥰',
+    desc: 'Did I get drunk from the moment I saw that smile? ',
+    btnYes: 'i love you <33',
+    btnNo: 'no :3',
+    question: 'There are more than 7 billion people in the world, but why do you only love me? <3',
+    btnReply: 'send me <3',
+    reply: 'I will love you until the earth stops turning, the white face stops shining, the sun goes out <33333333',
+    mess: 'I know 🥰. I Love you too 😘😘',
+    messDesc: 'Now call me then say you love me okey..',
+    btnAccept: 'Okiiiii  <3',
+    messLink: 'https://youtu.be/pBTp2RWxq-s' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
